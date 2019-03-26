@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://faxeepavi.router.gallery/sitemap.xml
